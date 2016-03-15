@@ -1,0 +1,11 @@
+$themeBackgroundColor: #f33;
+$themeTextColor: #33f;
+
+body{
+    padding: 10px;
+    background-color: $themeBackgroundColor;
+
+    p{
+      color: $themeTextColor
+    }
+  }
